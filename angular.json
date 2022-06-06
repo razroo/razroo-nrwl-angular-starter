@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "razroo-nrwl-angular-starter": "apps/razroo-nrwl-angular-starter",
+    "razroo-nrwl-angular-starter-e2e": "apps/razroo-nrwl-angular-starter-e2e"
+  }
+}
